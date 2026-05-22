@@ -5,21 +5,19 @@
 
 Passionate about building modern, responsive, and interactive web applications with clean UI/UX and scalable backend architecture.
 
----
-
  ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshaKumari-stack&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshaKumari-stack&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varshaKumari-stack&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshaKumari-stack&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=varshaKumari-stack&theme=tokyonight&hide_border=true" width="48%" />
 </p>
----
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshaKumari-stack&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
 ## 🚀 Tech Stack
 
 <p align="left">
