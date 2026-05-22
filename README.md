@@ -18,7 +18,8 @@ Passionate about building modern, responsive, and interactive web applications w
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshaKumari-stack&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
-## 🚀 Tech Stack
+ 
+  ## 🚀 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,javascript,git,github,vscode" />
