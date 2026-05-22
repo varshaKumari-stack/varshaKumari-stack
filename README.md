@@ -1,16 +1,44 @@
-## Hi there 👋
+ # Hi👋, I'm Varsha
 
-<!--
-**varshaKumari-stack/varshaKumari-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## MERN Stack Developer | Creative Frontend Enthusiast
 
-Here are some ideas to get you started:
+Passionate about building modern, responsive, and interactive web applications with clean UI/UX and scalable backend architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- ⚛️ React.js
+- 🟢 Node.js
+- 🚂 Express.js
+- 🍃 MongoDB
+- 🎨 Tailwind CSS
+- ✨ JavaScript
+
+---
+
+## 🌟 Featured Work
+
+### 🎮 InternMart UI
+A creative UI/UX challenge project featuring animated interactions, hidden easter eggs, and immersive frontend experiences.
+
+### 🛒 Full Stack MERN Applications
+Developing scalable web applications with authentication, REST APIs, responsive design, and modern frontend architecture.
+
+---
+
+## 📈 Currently Focused On
+
+- Advanced MERN Stack Development
+- Backend Architecture & APIs
+- DSA and Problem Solving
+- Building Production-Level Projects
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/varsha-kumari-819732388/
+-Vercel: https://vercel.com/varsha-kumaris-projects-fa676158
+
+---
+
+⭐ Exploring creativity through code & building impactful digital experiences.
