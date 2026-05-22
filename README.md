@@ -37,7 +37,7 @@ Developing scalable web applications with authentication, REST APIs, responsive 
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/varsha-kumari-819732388/
--Vercel: https://vercel.com/varsha-kumaris-projects-fa676158
+- Vercel: https://vercel.com/varsha-kumaris-projects-fa676158
 
 ---
 
