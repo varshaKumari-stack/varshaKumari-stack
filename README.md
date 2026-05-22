@@ -7,18 +7,17 @@ Passionate about building modern, responsive, and interactive web applications w
 
 ---
 
-## 📊 GitHub Stats
+ ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=varshaKumari-stack&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  
-  <img src="https://streak-stats.demolab.com?user=varshaKumari-stack&theme=tokyonight&hide_border=true" height="170" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshaKumari-stack&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshaKumari-stack&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
-
 ---
 
 ## 🚀 Tech Stack
